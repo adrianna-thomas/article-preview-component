@@ -28,8 +28,8 @@ Users should be able to:
 ### Screenshot
 
 ![](images/desktop-active-cropped.png)
-![](images/mobile.png)
-![](images/mobile-active.jpg)
+![](images/mobile-screenshot.png)
+![](images/mobile-active.png)
 
 ### Links
 
